@@ -8,6 +8,7 @@ html{
 	margin: 0px;
 	background-image: url("images/bgi.jpg");
 	padding-top: 10px;
+	min-width: 465px;
 }
 
 *{
@@ -43,6 +44,8 @@ html{
 	margin: 1%;
 	padding: 5px;
 	width: 22%;
+	overflow: auto;
+	min-width: 130px;
 }
 
 .blue{
@@ -54,6 +57,7 @@ html{
 	margin: 0px;
 	margin-top: 10px;
 	overflow: auto;
+	min-width: 350px;
 }
 
 span{
